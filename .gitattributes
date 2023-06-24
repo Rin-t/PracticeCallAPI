@@ -1,0 +1,27 @@
+*.dart linguist-detectable=true
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.c linguist-detectable=false
+*.mm linguist-detectable=false
+*.java linguist-detectable=false
+*.kt linguist-detectable=false
+*.swift linguist-detectable=false
+*.m linguist-detectable=false
+*.js linguist-detectable=false
+*.ts linguist-detectable=false
+*.json linguist-detectable=false
+*.xml linguist-detectable=false
+*.gradle linguist-detectable=false
+*.plist linguist-detectable=false
+*.pbxproj linguist-detectable=false
+*.xib linguist-detectable=false
+*.storyboard linguist-detectable=false
+*.xcworkspacedata linguist-detectable=false
+*.xcscheme linguist-detectable=false
+*.lproj/* linguist-detectable=false
+*.xcconfig linguist-detectable=false
+
+/ios/** linguist-vendored
+/android/** linguist-vendored
+/build/** linguist-vendored
+/.pub-cache/** linguist-vendored
